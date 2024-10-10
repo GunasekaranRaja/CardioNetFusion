@@ -1,0 +1,16 @@
+# Deep Learning Libraries
+tensorflow==2.13.0
+keras==2.13.0
+numpy==1.24.4
+pandas==2.0.3
+
+# Data Processing and Image Manipulation
+opencv-python==4.7.0.72
+Pillow==9.5.0
+scikit-image==0.19.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# For plotting and visualization
+plotly==5.15.0
