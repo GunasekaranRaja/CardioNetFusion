@@ -74,8 +74,7 @@ Due to file size limitations on GitHub, the ECG dataset, preprocessed images, an
 
 ## Acknowledgments
 
-This project was inspired by various research works in the field of ECG signal processing and deep learning. Special thanks to the contributors and resources that have shaped this project.
-
+This project was supported by the SERB grant (File No. SUR/2022/004714) under the SERB SURE project and the NGNLab, Anna University, Chennai, India. We express our gratitude for their assistance and resources that have contributed to the success of this work. Additionally, we would like to thank all the contributors and resources that have shaped this project
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
